@@ -4,11 +4,11 @@
 
 A shortly thanks to all collaborators,
 
-Idea - //(https://twitter.com/poxayout)[Yout]
+Idea - //[Yout](https://twitter.com/poxayout)
 
-Programming/Development - //(https://twitter.com/poxayout)[Yout]
+Programming/Development - //[Yout](https://twitter.com/poxayout)
 
-Design - //(https://images.google.com/)[Google Images]
+Design - //[Google Images](https://images.google.com/)
 
 # What is "Project S"?
 
