@@ -1,1 +1,12 @@
+src/*.js
+./src/*.js
+*.js
+*js
+src/*js
+./src/*js
 src/app
+src/app.js
+./src/app
+./src/app.js
+app.js
+app
