@@ -1,2 +1,2 @@
 # I need to ignore this due to malicious users who want to take advantage of others' work.
-./src/app.js
+./src/scripts/*.js
