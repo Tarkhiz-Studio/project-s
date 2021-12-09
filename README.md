@@ -1,6 +1,6 @@
 ## This is just a experiment with pure JavaScript"ing".
 
-#### Please, do not sell or download this from another website. If you haven't, visit us at: [https://discord.gg/](our discord) and help us.
+#### Please, do not sell or download this from another website. If you haven't, visit us at: [our discord](https://discord.gg/BsecSt7kbu) and help us.
 
 A shortly thanks to all collaborators,
 
